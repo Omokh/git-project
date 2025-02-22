@@ -1,3 +1,4 @@
-painting
-wallpaper
-frames
+Painting
+Wallpaper
+Frames
+Custumizer
